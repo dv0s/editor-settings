@@ -13,6 +13,7 @@ It includes download links and preset settings that can always be edited later.
 [Settings for VS Code](https://github.com/dv0s/editor-settings/tree/master/settings-for-vscode)  
 [Extensions](https://github.com/dv0s/editor-settings/tree/master/extensions)  
 [Snippets](https://github.com/dv0s/editor-settings/tree/master/snippets)
+[Settings for Windows Terminal](https://github.com/dv0s/editor-settings/tree/master/settings-for-windows-terminal)
 
 ----
 ## How-to
