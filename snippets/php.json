@@ -1,0 +1,20 @@
+{
+    "Public Function": {
+        "prefix": "met",
+        "body": [
+            "public function ${1:new_func}(${2:params}){",
+            "\t${3:#logic here...}",
+            "}"
+        ],
+        "description": "Public class method"
+    },
+    "Private Function": {
+        "prefix": "pmet",
+        "body": [
+            "private function ${1:new_func}(${2:params}){",
+            "\t${3:#logic here...}",
+            "}"
+        ],
+        "description": "Private class method"
+    }
+}

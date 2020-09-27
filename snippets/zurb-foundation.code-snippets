@@ -1,0 +1,62 @@
+{
+    "XY Grid (x)": {
+        "scope": "html,blade",
+        "prefix": "grid-x",
+        "body": [
+            "<div class=\"grid-x ${1:grid-padding-x}${2: grid-margin-x}${3: grid-padding-y}${4: grid-margin-y}\">",
+            "\t<div class=\"cell auto\">$7</div>",
+            "${6:\t<div class=\"cell auto\"></div>}",
+            "${5:\t<div class=\"cell auto\"></div>}",
+            "</div>"
+        ],
+        "description": "XY Grid-x 3 cells"
+    },
+    "XY Grid cell": {
+        "scope": "html,blade",
+        "prefix": "cell",
+        "body": [
+            "<div class=\"cell ${1:auto}\">",
+            "\t${2:<!-- content -->}",
+            "</div>"
+        ],
+        "description": "XY Grid Cell"
+    },
+    "Zurb Foundation submit button": {
+        "scope": "html,blade",
+        "prefix": "zf:submit",
+        "body": "<button type=\"submit\" name=\"${1:submit}\" id=\"${1:submit}\" class=\"button ${2:primary}\">${3:Send}</button>",
+        "description": "Foundation submit button"
+    },
+    "Zurb Foundation e-mail field": {
+        "scope": "html,blade",
+        "prefix": "zf:email",
+        "body": [
+            "<label for=\"${1:name}\">${2:caller}",
+            "\t<input type=\"email\" name=\"${1:name}\" id=\"${1:name}\" ${3:required} />",
+            "</label>"
+        ],
+        "description": "Foundation email input field"
+    },
+    "Zurb Foundation input field": {
+        "scope": "html,blade",
+        "prefix": "zf:input",
+        "body": [
+            "<label for=\"${1:name}\">${2:caller}",
+            "\t<input type=\"${3:text}\" name=\"${1:name}\" id=\"${1:name}\" ${4:required} />",
+            "\t<span class=\"form-error\" data-form-error-for=\"${1:name}\">${5}</span> ",
+            "</label>"
+        ],
+        "description": "Foundation * input field"
+    },
+    "Zurb Foundation text field": {
+        "scope": "html,blade",
+        "prefix": "zf:text",
+        "body": [
+            "<label for=\"${1:name}\">${2:caller}",
+            "\t<input type=\"text\" name=\"${1:name}\" id=\"${1:name}\" ${3:required} />",
+            "\t<span class=\"form-error\" data-form-error-for=\"${1:name}\">${4}</span> ",
+            "</label>"
+        ],
+        "description": "Foundation text input field"
+    },
+}

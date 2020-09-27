@@ -1,0 +1,26 @@
+{
+    "New view": {
+        "prefix": "nwv",
+        "body": [
+            "@extends($1)",
+            "",
+            "@push('style')",
+            "\t{{--content--}}",
+            "@endpush",
+            "",
+            "@push('script')",
+            "\t{{--content--}}",
+            "@endpush",
+            "",
+            "@section('main')",
+            "\t${2}",
+            "@endsection"
+        ],
+        "description": "New Blade-view setup"
+    },
+    "Blade translation ucfirst": {
+        "prefix": "uc__",
+        "body": "{{ ucfirst(__('${1:string}')) }}",
+        "description": "Uppercase first translation string"
+    }
+}
