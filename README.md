@@ -5,22 +5,22 @@ It includes download links and preset settings that can always be edited later.
 ## Index
 ### Downloads
 [Visual Studo Code](https://code.visualstudio.com/download)  
-[Font: Fira Code](https://github.com/tonsky/FiraCode)  
+[Font: Fira Code](https://github.com/tonsky/FiraCode)
+[Git for Windows](https://gitforwindows.org/)  
 [Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) (WINDOWS ONLY)
 
-### Settings after download
-[Settings](https://github.com/dv0s/editor-settings/tree/master/settings)  
+### Settings after the download
+[Settings for VS Code](https://github.com/dv0s/editor-settings/tree/master/settings-for-vscode)  
 [Extensions](https://github.com/dv0s/editor-settings/tree/master/extensions)  
 [Snippets](https://github.com/dv0s/editor-settings/tree/master/snippets)
 
-## How-to
 ----
-
-First, install [Visual Studo Code](https://code.visualstudio.com/download) for the system of your choice and install [Fira Code](https://github.com/tonsky/FiraCode) as administrator.
+## How-to
+First, install [Visual Studo Code](https://code.visualstudio.com/download) for the system of your choice and install [Fira Code](https://github.com/tonsky/FiraCode) as administrator and install [Git Bash](https://gitforwindows.org/) which can be intergrated in Windows Terminal.
 
 When both are installed correctly, follow the next steps:  
 - [Extensions](https://github.com/dv0s/editor-settings/tree/master/extensions)  
 - [Snippets](https://github.com/dv0s/editor-settings/tree/master/snippets)
-- [Settings](https://github.com/dv0s/editor-settings/tree/master/settings)  
+- [Settings for VS Code](https://github.com/dv0s/editor-settings/tree/master/settings-for-vscode)  
 
 To get into the settings of VS Code, hit ```ctrl``` + ```,``` and click the "Open settings file" in the top right corner. After that, you may edit the settings via JSON.
