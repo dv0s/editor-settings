@@ -49,4 +49,5 @@ code --install-extension richie5um2.vscode-sort-json
 code --install-extension Tyriar.shell-launcher
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension xabikos.ReactSnippets
+code --install-extension yzhang.markdown-all-in-one
 ```
