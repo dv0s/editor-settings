@@ -18,10 +18,14 @@ The output given here is the currently used list of extensions.
 
 ```
 code --install-extension abusaidm.html-snippets
+code --install-extension adrianwilczynski.alpine-js-intellisense
 code --install-extension amiralizadeh9480.laravel-extra-intellisense
 code --install-extension austenc.laravel-blade-spacer
+code --install-extension austenc.tailwind-docs
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension bradlc.vscode-tailwindcss
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
 code --install-extension cjhowe7.laravel-blade
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension Equinusocio.vsc-community-material-theme
@@ -31,6 +35,7 @@ code --install-extension felixfbecker.php-debug
 code --install-extension felixfbecker.php-intellisense
 code --install-extension felixfbecker.php-pack
 code --install-extension firefox-devtools.vscode-firefox-debug
+code --install-extension fknop.vscode-npm
 code --install-extension hollowtree.vue-snippets
 code --install-extension liximomo.sftp
 code --install-extension MehediDracula.php-namespace-resolver
@@ -46,6 +51,7 @@ code --install-extension onecentlin.laravel5-snippets
 code --install-extension patbenatar.advanced-new-file
 code --install-extension PKief.material-icon-theme
 code --install-extension richie5um2.vscode-sort-json
+code --install-extension techer.open-in-browser
 code --install-extension Tyriar.shell-launcher
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension xabikos.ReactSnippets
