@@ -2,14 +2,13 @@
 This repo is created for setting up de editor settings fast.  
 It includes download links and preset settings that can always be edited later.  
 
-## Index
-### Downloads
+## Download links
 [Visual Studo Code](https://code.visualstudio.com/download)  
-[Font: Fira Code](https://github.com/tonsky/FiraCode)
+[Font: Fira Code](https://github.com/tonsky/FiraCode)  
 [Git for Windows](https://gitforwindows.org/)  
 [Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) (WINDOWS ONLY)
 
-### Settings after the download
+### Settings after the download (within the repo)
 [Settings for VS Code](https://github.com/dv0s/editor-settings/tree/master/settings-for-vscode)  
 [Extensions](https://github.com/dv0s/editor-settings/tree/master/extensions)  
 [Snippets](https://github.com/dv0s/editor-settings/tree/master/snippets)
